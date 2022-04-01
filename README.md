@@ -37,14 +37,12 @@ Neste projeto foi feito uso de dois bancos de dados: o `hr` e um inédito chamad
 
 # Instruções para abrir o projeto:
 
-### ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório na sua maquina atravéz do git clone
  
 2. Pelo terminal navegue até a raiz do projeto e instale as dependências
   * `npm i` ou `npm install`
 
-# Como desenvolver
 
 ## Instruções para restaurar os bancos de dados `w3schools` e `hr`
 
